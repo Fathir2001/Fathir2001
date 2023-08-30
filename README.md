@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fathir2001
+- 👋 Hi, I’m Fathir
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Information Technology 
 - 📫 How to reach me 🤔
