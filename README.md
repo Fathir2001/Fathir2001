@@ -1,5 +1,3 @@
-<h1 align="center">Hello 👋, I'm Rifthan Fathir</h1>
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1PKsz8Tsh-rzUfQ4kjqrLyJ5QFi-w0Kxx" width="100%" title="Intro Card" alt="Intro Card">
 </p>
