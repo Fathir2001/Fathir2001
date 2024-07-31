@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1PKsz8Tsh-rzUfQ4kjqrLyJ5QFi-w0Kxx" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/user-attachments/assets/a301e475-1239-4a68-b64e-cb4855b5a9c9" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
----
 <p align="center">
   <a href="https://github.com/Fathir2001">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12E1FCE3&random=false&width=435&lines=~+Welcome+to+my+GitHub+Profile+~;Full+Stack+Developer+💻;Passionate+About+UI%2FUX+Design+🎨;Always+Exploring+New+Technologies+🚀" alt="Typing SVG" />
