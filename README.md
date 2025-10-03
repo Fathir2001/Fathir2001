@@ -76,6 +76,9 @@
 - 🏆 Land a full-time opportunity after graduation  
 
 ---
+## Snake contribution
+![snake gif](https://github.com/Fathir2001/Fathir2001/blob/output/github-snake-dark.svg)
+
 
 ## 🏅 GitHub Highlights & Stats
 
