@@ -77,7 +77,7 @@
 
 ---
 ## Snake contribution
-![snake gif](https://github.com/Fathir2001/Fathir2001/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Fathir2001/Fathir2001/blob/output/github-snake.svg)
 
 
 ## 🏅 GitHub Highlights & Stats
