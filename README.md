@@ -2,119 +2,211 @@
   <img src="https://github.com/user-attachments/assets/a301e475-1239-4a68-b64e-cb4855b5a9c9" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-## Snake contribution ![snake gif](https://github.com/Fathir2001/Fathir2001/blob/output/github-snake.svg)
----
+<div align="center">
 
-<h1 align="center">Hey there! 👋 I’m <b>Rifthan Fathir</b></h1>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rifthan%20Fathir&fontSize=50&fontColor=12E1FC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/> -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=12E1FC&center=true&vCenter=true&width=460&lines=Full-Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;Problem+Solver+%26+Innovator+🚀;Associate+Software+Engineer+@+Imara"
-    alt="Rifthan Fathir typing animation"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=12E1FC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%26+Innovator+%F0%9F%9A%80;Associate+Software+Engineer+%40+Imara"
+  alt="Rifthan Fathir typing animation"
+/>
 
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fathir2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-12E1FC?style=for-the-badge&logo=github&logoColor=white)
 
----
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Fathir2001&label=PROFILE%20VIEWS&color=12E1FC&style=for-the-badge)](https://github.com/Fathir2001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifthan-fathir)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifthanfathir33@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifthan_fathir)
+
+</div>
+
+<br/>
+
+## 🐍 Snake Contribution
+
+<img src="https://github.com/Fathir2001/Fathir2001/blob/output/github-snake.svg" width="100%" alt="snake eating my contribution graph"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=2&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
 ## 🌟 About Me
 
-- 🎓 **NTD in Information Technology**  
-  *Institute of Technology, University of Moratuwa*
-- 💼 **Associate Software Engineer** @ *Imara Software Solutions (Pvt) Ltd* — building impactful and scalable software solutions
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+- 🎓 **NTD in Information Technology** — *Institute of Technology, University of Moratuwa*
+- 💼 **Associate Software Engineer** @ **Imara Software Solutions (Pvt) Ltd** — building impactful, scalable software solutions
 - 🖥️ Passionate about **Full Stack Development**
 - 🎨 Strong interest in **UI/UX Design & Motion Animations**
 - 🔭 Always exploring modern technologies and best practices
-- 📬 Reach me at: **rifthanfathir33@gmail.com**
+- 🌱 Currently leveling up: **Flutter animations**, **system design**, and **cloud infra**
+- ⚡ Fun fact: I like turning ideas into products people actually *use*
+- 📬 Reach me at **rifthanfathir33@gmail.com**
 
----
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
 ## 🧠 Currently Working On
 
-- 🔧 Developing production-level features at **Imara Software Solutions**
-- 🚀 Building **TrekTempo**, a real-world Sri Lankan travel platform
-- 🎨 Improving UI/UX skills with animations and micro-interactions
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2593c3-a216-4d90-a852-2d420effc95e.gif">
 
----
+```text
+🔧  Shipping production features at Imara Software Solutions
+🚀  Building TrekTempo — a real-world Sri Lankan travel platform
+🎨  Polishing UI/UX with animations & micro-interactions
+```
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
 ## 🧩 Strengths Snapshot
 
-- Clean, maintainable code
-- Strong UI/UX sense
-- REST API integration
-- Team collaboration & Agile workflow
-- Practical problem-solving mindset
+<div align="center">
 
----
+| 🧼 Clean Code | 🎨 UI/UX Sense | 🔗 REST APIs | 🤝 Team & Agile | 🧠 Problem Solving |
+|:---:|:---:|:---:|:---:|:---:|
+| Maintainable & scalable | Design-driven builds | Robust integrations | Cross-functional collab | Practical, real solutions |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,nodejs,express,mongodb,firebase,html,css,tailwind,figma,git,github,vscode" />
-</p>
+<div align="center">
 
----
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,nodejs,express,html,css,tailwind" />
 
-## 💼 Experience
+**Data & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
-| Role                          | Organization                        | Duration           |
-|-------------------------------|-------------------------------------|--------------------|
-| 🧑‍💻 Associate Software Engineer | Imara Software Solutions (Pvt) Ltd | Jan 2025 – Present |
-| 💻 Software Engineering Trainee | Imara Software Solutions (Pvt) Ltd | Jan 2025 – Dec 2025 |
-| 🌍 Web & Mobile Dev Student    | ITUM (UoM)                          | 2022 – Present     |
-| 🌟 Open Source Contributor     | GitHub & Hacktoberfest             | 2023 – Present     |
+**Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" />
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
+
+## 💼 Experience Timeline
+
+```mermaid
+timeline
+    title Career Journey
+    2022 : Web & Mobile Dev Student @ ITUM (UoM)
+    2023 : Open Source Contributor — GitHub & Hacktoberfest
+    Jan 2025 : Software Engineering Trainee @ Imara Software Solutions
+    2025 : Associate Software Engineer @ Imara Software Solutions
+```
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
 ## 📂 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🧭 TrekTempo
-A Sri Lankan travel & community app featuring events, places, and user-generated content.  
-**Flutter · Node.js · Express · MongoDB | Mobile App + Admin Panel**
+A Sri Lankan travel & community app featuring events, places, and user-generated content.
+<br/>
+**Flutter · Node.js · Express · MongoDB**
+<br/>
+📱 Mobile App + 🖥️ Admin Panel
 
----
+</td>
+<td width="50%">
 
-### ☁️ Full-Stack Restaurant Ordering App
-Live restaurant ordering system with authentication, real-time cart, and email notifications.  
+### ☁️ Restaurant Ordering App
+Live ordering system with authentication, real-time cart, and email notifications.
+<br/>
 **React.js · Firebase (Auth, Firestore, Functions)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### ☀️ EcoRoute — IoT Weather Monitoring System
-Real-time environmental monitoring system with sensor data visualization.  
+### ☀️ EcoRoute — IoT Weather Monitor
+Real-time environmental monitoring with sensor data visualization.
+<br/>
 **ESP32 · Arduino · DHT11 · BMP180 · GPS · Mobile Dashboard**
 
----
+</td>
+<td width="50%">
 
 ### 🛒 R.F Grocery App
-Mobile grocery application with clean UI, categorized products, and smooth navigation.  
+Clean, categorized, smooth-navigation mobile grocery app.
+<br/>
 **Flutter**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 💡 Inspirella
-Minimalist quote generator app delivering daily inspiration.  
+Minimalist quote generator delivering daily inspiration.
+<br/>
 **Flutter**
 
-👉 Explore more projects:  
-🔗 https://github.com/Fathir2001?tab=repositories
+</td>
+<td width="50%">
 
----
+### 🔗 More Projects
+Explore the full collection of builds & experiments.
+<br/>
+<a href="https://github.com/Fathir2001?tab=repositories">👉 View Repositories</a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
 ## 🎯 Goals for 2025
 
-- 🚀 Launch **TrekTempo** on Play Store
-- 📂 Build a personal portfolio with animations & case studies
-- 🤝 Contribute to 10+ open source projects
-- 💼 Secure a full-time software engineering role after graduation
+- [ ] 🚀 Launch **TrekTempo** on the Play Store
+- [ ] 📂 Build a personal portfolio with animations & case studies
+- [ ] 🤝 Contribute to 10+ open source projects
+- [ ] 💼 Secure a full-time software engineering role after graduation
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
-## 🏅 GitHub Highlights
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathir2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fathir2001&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathir2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathir2001&theme=tokyo-night&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Fathir2001&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Fathir2001)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
+
+## 🏅 Badges & Recognition
+
+<p align="center">
+  <img src="https://holopin.me/fathir2001" alt="Holopin Badges" width="380px" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Fathir2001?tab=repositories&sort=stargazers">
@@ -125,41 +217,23 @@ Minimalist quote generator app delivering daily inspiration.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fathir2001&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=12E1FC&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathir2001&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+## 🌐 Let's Connect
 
----
+<div align="center">
 
-## 🏅 Badges & Recognition
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifthan-fathir)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61558667296396)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifthan_fathir)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifthanfathir33@gmail.com)
 
-<p align="center">
-  <img src="https://holopin.me/fathir2001" alt="Holopin Badges" width="380px" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 🌐 Let’s Connect
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1500&color=12E1FC&center=true&vCenter=true&width=650&lines=Build+things+that+solve+real+problems...;...and+make+them+beautiful.+%F0%9F%92%99" alt="closing quote"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rifthan-fathir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61558667296396" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://instagram.com/rifthan_fathir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" height="30" width="30" />
-  </a>&nbsp;
-  <a href="mailto:rifthanfathir33@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" height="30" width="30" />
-  </a>
-</p>
+</div>
 
----
-
-> “Build things that solve real problems — and make them beautiful.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
